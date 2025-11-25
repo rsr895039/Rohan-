@@ -1,0 +1,8 @@
+{
+  "serverName": "Bangladesh Server",
+  "status": "online",
+  "emotes": [
+    {"id": 1, "name": "BD Emote 1"},
+    {"id": 2, "name": "BD Emote 2"}
+  ]
+}
